@@ -1,0 +1,80 @@
+{
+	"venue": {
+		"venue_name": "Lake Harney Wilderness Area",
+		"lon": -81.064056,
+		"lat": 28.790346,
+		"venue_id": 7688572
+	},
+	"visibility": "public",
+	"response": "yes",
+	"guests": 0,
+	"member": {
+		"member_id": 71302982,
+		"photo": "https:\/\/secure.meetupstatic.com\/photos\/member\/d\/4\/9\/d\/thumb_262374429.jpeg",
+		"member_name": "Dale Tryzbiak"
+	},
+	"rsvp_id": 1731329984,
+	"mtime": 1528067500026,
+	"event": {
+		"event_name": "Hike at Lake Harney Wilderness",
+		"event_id": "250293700",
+		"time": 1529244000000,
+		"event_url": "https:\/\/www.meetup.com\/Florida-Trail-Association-Central-Florida-Chapter\/events\/250293700\/"
+	},
+	"group": {
+		"group_topics": [{
+			"urlkey": "excercise",
+			"topic_name": "Exercise"
+		}, {
+			"urlkey": "kayaking",
+			"topic_name": "Kayaking"
+		}, {
+			"urlkey": "social",
+			"topic_name": "Social"
+		}, {
+			"urlkey": "newintown",
+			"topic_name": "New In Town"
+		}, {
+			"urlkey": "socialnetwork",
+			"topic_name": "Social Networking"
+		}, {
+			"urlkey": "nature-walks",
+			"topic_name": "Nature Walks"
+		}, {
+			"urlkey": "outdoors",
+			"topic_name": "Outdoors"
+		}, {
+			"urlkey": "hiking",
+			"topic_name": "Hiking"
+		}, {
+			"urlkey": "central-florida",
+			"topic_name": "Central Florida"
+		}, {
+			"urlkey": "bike",
+			"topic_name": "Bicycling"
+		}, {
+			"urlkey": "backpacking-and-camping",
+			"topic_name": "Backpacking and Camping"
+		}, {
+			"urlkey": "canoe",
+			"topic_name": "Canoeing"
+		}, {
+			"urlkey": "walkers",
+			"topic_name": "Walking"
+		}, {
+			"urlkey": "kayak-camping",
+			"topic_name": "Kayak Camping"
+		}, {
+			"urlkey": "city-walks",
+			"topic_name": "City Walks"
+		}],
+		"group_city": "Orlando",
+		"group_country": "us",
+		"group_id": 2528442,
+		"group_name": "Florida Trail Association - Central Florida and Highlanders",
+		"group_lon": -81.37,
+		"group_urlname": "Florida-Trail-Association-Central-Florida-Chapter",
+		"group_state": "FL",
+		"group_lat": 28.54
+	}
+}

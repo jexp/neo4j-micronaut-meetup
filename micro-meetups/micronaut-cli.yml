@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micro.meetups
+---
+testFramework: junit
+sourceLanguage: java
